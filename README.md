@@ -1,1 +1,1 @@
-# method-of-moments
+# Aplicación del metodo de momentos
